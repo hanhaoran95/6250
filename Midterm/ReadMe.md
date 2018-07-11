@@ -13,11 +13,7 @@ Redux Adventure is a text-based adventure game written in Angular 2 and TypeScri
 
 ### Local
 
-First, clone the repo: 
-
-`git clone https://github.com/JeremyLikness/redux-adventure.git`
-
-`cd redux-adventure` 
+First, download the file on my github: 
 
 Next, install the dependencies: 
 `npm install` 
